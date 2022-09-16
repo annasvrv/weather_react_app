@@ -1,0 +1,18 @@
+.weather-forecast {
+  margin: 0 18px;
+  /* background-color: var(--plate1-color); */
+  background-color: transparent;
+  /* border-color: var(--main-color); */
+  border: none;
+}
+
+.Forecast ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-align: center;
+}
+
+.Forecast img {
+  width: 34px;
+}
